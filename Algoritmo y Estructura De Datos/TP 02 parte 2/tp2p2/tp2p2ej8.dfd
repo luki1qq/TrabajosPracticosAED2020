@@ -1,0 +1,105 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+3
+SMA
+1
+0
+2
+PB
+1
+0
+4
+1
+40
+'ingrese cantidad de pacientes a cargar'
+5
+1
+1
+N
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+27
+'ingrese edad del paciente'
+5
+1
+1
+E
+4
+1
+63
+'ingrese sexo del paciente','1 para MASCULINO- 2 para FEMENINO'
+5
+1
+1
+S
+4
+1
+68
+'ingrese patologia del paciente','1 para GRIPE A  3 para BRONQUITIS'
+5
+1
+1
+P
+7
+0
+1
+11
+S=1 and P=1
+13
+6
+1
+3
+SMA
+5
+SMA+1
+13
+7
+0
+1
+20
+P=3 and (S=2 or S=1)
+13
+6
+1
+2
+PB
+4
+PB+1
+13
+10
+4
+1
+95
+'Cantidad de personas de sexo masculino que padecen Gripe A.:','PRESIONE ENTER PARA VISUALIZAR'
+4
+1
+3
+SMA
+4
+1
+108
+'Cantidad de personas de sexo femenino y masculino que padecen Bronquitis:','PRESIONE ENTER PARA VISUALIZAR'
+4
+1
+2
+PB
+1

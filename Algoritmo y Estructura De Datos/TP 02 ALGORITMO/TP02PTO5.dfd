@@ -1,0 +1,87 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+3
+TMV
+1
+0
+3
+AVM
+1
+0
+3
+CXA
+4
+2000
+6
+3
+2
+SB
+5
+40000
+2
+CF
+1
+0
+3
+MVF
+1
+0
+4
+1
+36
+'¿Cuantos automoviles se vendieron?'
+5
+1
+3
+AVM
+7
+0
+1
+7
+AVM > 0
+13
+6
+1
+2
+CF
+9
+AVM * CXA
+13
+4
+1
+40
+'¿Cual es el total del monto de ventas?'
+5
+1
+3
+TVM
+7
+0
+1
+7
+TVM > 0
+13
+6
+1
+3
+MVF
+9
+TVM*5/100
+13
+6
+1
+1
+S
+9
+SB+CF+MVF
+4
+1
+61
+'El sueldo final de un vendedor en un determinado mes es' , S
+1

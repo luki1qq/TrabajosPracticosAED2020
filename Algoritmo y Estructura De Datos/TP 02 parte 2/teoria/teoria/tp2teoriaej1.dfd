@@ -1,0 +1,106 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+2
+TF
+1
+0
+4
+Cont
+1
+0
+4
+1
+27
+'Ingrese Nro. de empleados'
+5
+1
+1
+N
+9
+1
+6
+Cont<N
+4
+1
+23
+'Ingrese valor de hora'
+5
+1
+2
+VH
+4
+1
+28
+'INGRESE CANTIDAD DE HORAS:'
+5
+1
+2
+CH
+7
+0
+1
+4
+CH=0
+6
+2
+1
+S
+6
+VH* CH
+2
+SD
+6
+S*0.86
+7
+0
+1
+5
+CH>60
+4
+1
+28
+'Sueldo del trabajador:', SD
+13
+6
+2
+1
+P
+6
+S*0.05
+2
+SD
+4
+SD+P
+4
+1
+28
+'Sueldo del trabajador:', SD
+13
+6
+2
+3
+TF 
+5
+TF+SD
+4
+Cont
+8
+Cont + 1
+13
+4
+1
+13
+'NO TRABAJO '
+13
+11
+4
+1
+55
+'Concepto total en pago de sueldos por la fábrica:', TF
+1

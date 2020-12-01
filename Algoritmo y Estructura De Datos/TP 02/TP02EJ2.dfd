@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+1
+x
+1
+0
+1
+y
+1
+0
+4
+1
+29
+'Ingresar valores para X e Y'
+5
+1
+4
+x, y
+7
+0
+1
+16
+X <= 3 AND X>=-3
+4
+1
+32
+'X se encuentra fuera del plano'
+13
+4
+1
+33
+'X se encuentra dentro del plano'
+13
+7
+0
+1
+16
+Y>= -3 AND Y<= 3
+4
+1
+36
+'Y no se encuentra dentro del plano'
+13
+4
+1
+33
+'Y se encuentra dentro del plano'
+13
+1

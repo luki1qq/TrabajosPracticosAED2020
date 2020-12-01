@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+2
+kw
+1
+0
+4
+VxKw
+1
+0
+2
+CF
+1
+0
+4
+1
+58
+'Ingresar Valor del kw y el consumo electrico de su hogar'
+5
+1
+8
+kw ,vxkw
+7
+0
+1
+6
+kw = 0
+7
+0
+1
+8
+kw < 350
+13
+6
+1
+2
+kw
+8
+kw *0.95
+13
+6
+1
+2
+CF
+8
+kw *vxkw
+4
+1
+34
+'El monto total a pagar sera' , CF
+13
+4
+1
+16
+'No hay consumo'
+13
+1

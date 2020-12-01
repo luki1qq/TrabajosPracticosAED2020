@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+3
+SNM
+1
+0
+5
+Mens1
+15
+'Hubo Ganancia'
+5
+Mens2
+18
+'No hubo ganancia'
+6
+2
+3
+TVM
+1
+0
+3
+TGM
+1
+0
+4
+1
+57
+'ingrese el total de ventas y el total de gastos del mes'
+5
+1
+8
+TVM, TGM
+6
+1
+3
+SNM
+12
+TVM*0.75-TGM
+4
+1
+35
+'el el saldo neto mensual es' , SNM
+7
+0
+1
+7
+SNM > 0
+4
+1
+18
+'No Hubo Ganancia'
+13
+4
+1
+15
+'Hubo Ganancia'
+13
+1
